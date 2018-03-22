@@ -1,3 +1,6 @@
+
+// contract address: 0x70C01853e4430cae353c9a7AE232a6a95f6CaFd9
+
 pragma solidity ^0.4.18;
 
 contract Owned {
