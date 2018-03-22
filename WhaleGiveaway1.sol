@@ -1,3 +1,5 @@
+//contract address: 0x7a4349a749e59a5736efb7826ee3496a2dfd5489
+
 pragma solidity ^0.4.19;
 
 contract WhaleGiveaway1
